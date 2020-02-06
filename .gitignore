@@ -1,6 +1,7 @@
 # dotfiles, with exceptions:
 .*
 !.gitignore
+!.travis.yml
 # python compiled files
 *.py[co]
 # emacs backup files
